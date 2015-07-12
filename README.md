@@ -47,6 +47,6 @@ Make the Apache and MySQL run using the XAMPP control panel.
 3. A new comer to the quiz can enter the registration details through the input fields.
 4. Once you enter the home page of the quiz , the user has two options. He can either submit questions by entering the question and their options in the input fields.
 5. A user can answer all the unanswered questions and his score will be updated automatically.  The user can view his score at any point of time. There will be a pie chart depicting the score.
-6. The user can also hav a look at the leaderboard which is depicted in tables using bootstrap. Have fun.
+6. The user can also hav a look at the leaderboard which is depicted in tables using bootstrap. You can also sort the leaderboard by name or by score. Have fun.
 
 Will include screenshots soon.
