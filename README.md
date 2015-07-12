@@ -12,10 +12,10 @@ Also i had a brief or general idea on how my front end part should look. </p>
 <p> 1. Client side
       1. HTML
       2. CSS
-      3. Javascript
-    2. Server Side
-      1. PHP+MySQL . (XAMPP)
-      
+      3. Javascript </p>
+ <p>   2. Server Side
+      1. PHP+MySQL . (XAMPP) </p>
+       
 # SERVER ROUTES
 
 1. '/' - Welcome page or basically the homepage.
