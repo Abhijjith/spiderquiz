@@ -9,12 +9,12 @@ Also i had a brief or general idea on how my front end part should look. </p>
 <p> Step by step i started creating the pages in order and started improvising it. </p>
 
 # WHAT I BASICALLY USED.
-<p> 1. Client side
-      1. HTML
+<p> 1. Client side </p>
+<p>      1. HTML
       2. CSS
       3. Javascript </p>
- <p>   2. Server Side
-      1. PHP+MySQL . (XAMPP) </p>
+ <p>   2. Server Side </p>
+<p>      1. PHP+MySQL . (XAMPP) </p>
        
 # SERVER ROUTES
 
