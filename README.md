@@ -49,4 +49,26 @@ Make the Apache and MySQL run using the XAMPP control panel.
 5. A user can answer all the unanswered questions and his score will be updated automatically.  The user can view his score at any point of time. There will be a pie chart depicting the score.
 6. The user can also hav a look at the leaderboard which is depicted in tables using bootstrap. You can also sort the leaderboard by name or by score. Have fun.
 
-Will include screenshots soon.
+# The screenshots.
+
+![alt tag](http://i.imgur.com/OkBAPJY.jpg)
+
+![alt tag](http://i.imgur.com/KZaxXyH.jpg)
+
+![alt tag](http://i.imgur.com/Whg9T2i.jpg)
+
+![alt tag](http://i.imgur.com/yRNIXjl.jpg)
+
+![alt tag](http://i.imgur.com/erpKLKz.jpg)
+
+![alt tag](http://i.imgur.com/hX0AnYS.jpg)
+
+![alt tag](http://i.imgur.com/7Tc0smw.jpg)
+
+![alt tag](http://i.imgur.com/lygh7BJ.jpg)
+
+![alt tag](http://i.imgur.com/whHBYtF.jpg)
+
+![alt tag](http://i.imgur.com/i9PsNVY.jpg)
+
+# Thanks a lot. I thoroughly loved the learning process of the inductions.
