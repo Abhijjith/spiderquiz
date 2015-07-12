@@ -71,4 +71,4 @@ Make the Apache and MySQL run using the XAMPP control panel.
 
 ![alt tag](http://i.imgur.com/i9PsNVY.jpg)
 
-# Thanks a lot. I thoroughly loved the learning process of the inductions.
+# Thanks a lot. I thoroughly loved the learning process of the inductions
